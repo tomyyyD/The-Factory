@@ -12,10 +12,10 @@ EditorBuildSettings:
     path: Assets/Scenes/startOfGame.unity
     guid: 2438d92a2fb0e774bb16653d63f939e3
   - enabled: 1
-    path: Assets/Scenes/room1.unity
+    path: Assets/Scenes/HistoryRoom.unity
     guid: 97fda2970d8f2d14ea9a8f7ee1cde26a
   - enabled: 1
-    path: Assets/Scenes/room2.unity
+    path: Assets/Scenes/ScienceRoom.unity
     guid: 4364a3441223b2547ba07cd0fc0cde2f
   - enabled: 1
     path: Assets/Scenes/AboutPage.unity
